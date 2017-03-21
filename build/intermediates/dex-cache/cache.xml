@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/87ca4cd8dd93ca5a3b6541f3076bba8379aa7f86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee07783aa59eefdeacc107abf472f45f60272302">
+        <dex dex="/home/klem/AndroidStudioProjects/Test2/app/build/intermediates/pre-dexed/debug/classes_ef7778920fb3b577ff6bb0b2892f92b13307d881.jar" />
+    </item>
+
+</items>
